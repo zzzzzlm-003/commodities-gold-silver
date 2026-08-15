@@ -1,0 +1,8 @@
+# Runtime dependencies for the gold/silver commodities analysis scripts.
+# Pinned to the versions validated in the Cloud Agent environment.
+pandas==3.0.5
+numpy==2.5.2
+matplotlib==3.11.1
+statsmodels==0.14.6
+# scipy is pulled in transitively by statsmodels; pinned for reproducibility.
+scipy==1.18.0
