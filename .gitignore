@@ -10,3 +10,5 @@ __pycache__/
 output/
 __pycache__/
 data/refs/
+data/opt_*.json
+data/*.jsonp
