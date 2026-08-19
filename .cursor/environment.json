@@ -1,0 +1,4 @@
+{
+  "name": "commodities-gold-silver",
+  "install": "bash /agent/repos/commodities-gold-silver/.cursor/install.sh"
+}
